@@ -1,4 +1,4 @@
-# react-intl-example
+# react-intl-and-memo-rerenders
 
 Simple examples of React-intl combined with memo() and how to avoid re-renders in React
 
