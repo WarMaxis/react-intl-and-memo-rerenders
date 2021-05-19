@@ -40,7 +40,7 @@ const NormalComponentPlusPropIntl = memo((intl) => {
 
     console.log(intl)
 
-    return <div>Normal component with prop intl object: <strong>{normalComponentPlusPropIntlCounter}</strong> step</div>
+    return <div>Normal component wrapped in memo() with prop intl object: <strong>{normalComponentPlusPropIntlCounter}</strong> step</div>
 });
 
 function App(intl) {
